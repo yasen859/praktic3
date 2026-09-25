@@ -15,7 +15,7 @@ int main() {
 	printf("Произведение: %d\n", num2 * num);
 	printf("Частное: %d\n", num2 / num);
 	printf("Остаток: %d\n", num2 % num);
-	//printf("Деление: %d\n", num2 * 1.0 / num);
+
 
 
 
