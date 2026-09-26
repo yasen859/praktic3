@@ -31,6 +31,7 @@
  #include <locale.h>
  
  int main() {
+    
     setlocale(LC_CTYPE, "RUS");
    
     //Шаг 1: задать переменные
